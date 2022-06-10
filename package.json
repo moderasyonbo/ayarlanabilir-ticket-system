@@ -1,0 +1,24 @@
+{
+  "name": "destek-sistemi",
+  "version": "0.0.1",
+  "description": "nova botlist destek sistemi",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+    
+  
+  ]
+}
